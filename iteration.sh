@@ -22,7 +22,7 @@ cd ../nodezoo-github
 git checkout $ITER
 
 echo "nodezoo-npm-update " $ITER
-cd ../nodezoo-npm-update
+cd ../nodezoo-updater
 git checkout $ITER
 
 cd ../nodezoo
